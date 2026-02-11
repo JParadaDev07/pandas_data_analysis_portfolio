@@ -5,9 +5,9 @@ CHALLENGE - Block 2: Selection and Filtering
 OBJECTIVE:
 Perform complex queries combining EVERYTHING learned in Block 2.
 
-CONTEXTO:
-Eres analista de inventario. El gerente te pide varios reportes específicos
-del catálogo de productos.
+CONTEXT:
+You are an inventory analyst. The manager asks you for several specific reports
+from the product catalog.
 
 ═══════════════════════════════════════════════════════════════════════
 
