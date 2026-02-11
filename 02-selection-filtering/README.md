@@ -62,5 +62,5 @@ This block focuses on the core capability of any Data Analyst: extracting specif
 **Key Takeaway:** Demonstrafed how to turn repetitive filtering tasks into reusable functions for scalable data analysis.
 ---
 ## 📂 Datasets Used
-- [products.csv](../data/datasets/products.csv): Inventory data including price, stock, supplier, rating, and active status.
+- [products.csv](./data/datasets/products.csv): Inventory data including price, stock, supplier, rating, and active status.
 ---
