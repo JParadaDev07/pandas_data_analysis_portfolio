@@ -1,0 +1,6 @@
+dept_code,department_name,manager_name,budget,location,established_year
+MKT,Marketing,Ana García,150000000,Bogotá,2015
+IT,Information Technology,Carlos Ruiz,200000000,Medellín,2010
+HR,Human Resources,María López,80000000,Bogotá,2012
+FIN,Finance,Pedro Sánchez,120000000,Tunja,2008
+OPS,Operations,Roberto Silva,180000000,Cali,2018

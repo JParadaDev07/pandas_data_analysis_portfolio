@@ -1,0 +1,11 @@
+employee_id,month,sales_amount,region
+2,July,15000000,Norte
+4,July,22000000,Norte
+7,July,18500000,Centro
+14,July,25000000,Norte
+1,August,12000000,Sur
+2,August,18000000,Norte
+5,August,9500000,Sur
+7,August,21000000,Centro
+10,August,11000000,Sur
+14,August,28000000,Norte

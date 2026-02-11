@@ -1,0 +1,16 @@
+id,name,age,department,salary,city,hire_date,email,performance_score
+1,Ana García,28,Marketing,3500000,Tunja,2022-03-15,ana.garcia@company.com,85
+2,Luis Pérez,35,IT,4200000,Bogotá,2020-06-01,luis.perez@company.com,92
+3,María López,42,HR,3800000,Medellín,2019-01-20,maria.lopez@company.com,78
+4,Carlos Ruiz,31,IT,4500000,Bogotá,2021-09-10,carlos.ruiz@company.com,88
+5,Sofia Torres,26,Marketing,3200000,Cali,2023-02-28,sofia.torres@company.com,91
+6,Pedro Sánchez,38,Finance,4100000,Tunja,2018-11-05,pedro.sanchez@company.com,75
+7,Laura Martínez,29,IT,4300000,Medellín,2022-07-12,laura.martinez@company.com,95
+8,Diego Hernández,45,HR,3900000,Bogotá,2017-04-30,,82
+9,Camila Díaz,33,Finance,4000000,Cali,2020-12-15,camila.diaz@company.com,
+10,Andrés Vargas,27,Marketing,3300000,Tunja,2023-05-20,andres.vargas@company.com,87
+11,Valentina Rojas,,IT,4400000,Medellín,2021-03-08,valentina.rojas@company.com,90
+12,Juan Castro,36,Finance,4150000,Bogotá,2019-08-25,juan.castro@company.com,79
+13,Isabella Moreno,30,HR,3700000,Cali,2022-01-10,isabella.moreno@company.com,84
+14,Sebastián Ortiz,41,IT,4600000,Tunja,2018-06-18,sebastian.ortiz@company.com,93
+15,Daniela Ramírez,24,Marketing,3100000,Medellín,2023-09-01,daniela.ramirez@company.com,88

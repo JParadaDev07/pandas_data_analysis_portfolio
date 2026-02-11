@@ -1,0 +1,6 @@
+id,name,age,department,salary,city,hire_date,email,performance_score
+2,Luis Pérez,35.0,IT,4200000,Bogotá,2020-06-01,luis.perez@company.com,92.0
+4,Carlos Ruiz,31.0,IT,4500000,Bogotá,2021-09-10,carlos.ruiz@company.com,88.0
+7,Laura Martínez,29.0,IT,4300000,Medellín,2022-07-12,laura.martinez@company.com,95.0
+11,Valentina Rojas,,IT,4400000,Medellín,2021-03-08,valentina.rojas@company.com,90.0
+14,Sebastián Ortiz,41.0,IT,4600000,Tunja,2018-06-18,sebastian.ortiz@company.com,93.0
