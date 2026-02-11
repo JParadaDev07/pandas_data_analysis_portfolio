@@ -102,9 +102,6 @@ The 3 CSV files are exported correctly
 The code runs without errors
 The reports contain the correct information
 
-═══════════════════════════════════════════════════════════════
-    ESTIMATED TIME: 45-60 minutes
-═══════════════════════════════════════════════════════════════
 """
 
 # ═══════════════════════════════════════════════════════════════
