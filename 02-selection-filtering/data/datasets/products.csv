@@ -1,0 +1,21 @@
+id,product_name,category,price,stock,supplier,rating,is_active,launch_date
+1,Laptop Dell Inspiron,Electronics,2500000,15,TechSupply,4.5,1,2023-01-15
+2,Mouse Logitech,Electronics,45000,120,TechSupply,4.2,1,2022-11-20
+3,Teclado Mecánico,Electronics,180000,45,TechSupply,4.7,1,2023-03-10
+4,Monitor LG 27",Electronics,890000,25,TechSupply,4.6,1,2023-02-05
+5,Silla Ergonómica,Furniture,650000,30,OfficeMax,4.3,1,2022-12-01
+6,Escritorio Gaming,Furniture,1200000,12,OfficeMax,4.8,1,2023-04-15
+7,Lámpara LED,Furniture,85000,60,OfficeMax,4.1,1,2022-10-10
+8,Auriculares Sony,Electronics,320000,40,TechSupply,4.9,1,2023-05-20
+9,Webcam HD,Electronics,150000,35,TechSupply,4.0,1,2023-01-25
+10,Mousepad XXL,Electronics,35000,200,TechSupply,3.8,1,2022-09-15
+11,Hub USB,Electronics,55000,80,TechSupply,4.2,1,2023-02-28
+12,Archivador,Furniture,180000,20,OfficeMax,3.9,1,2022-08-05
+13,Tablet Samsung,Electronics,950000,18,TechSupply,4.6,0,2021-12-01
+14,Impresora HP,Electronics,680000,22,TechSupply,4.4,1,2023-03-15
+15,Router WiFi,Electronics,220000,50,TechSupply,4.3,1,2023-05-01
+16,Estante Modular,Furniture,420000,15,OfficeMax,4.2,1,2022-11-10
+17,Soporte Monitor,Furniture,95000,45,OfficeMax,4.0,1,2023-01-05
+18,Cable HDMI 2m,Electronics,25000,150,TechSupply,3.7,1,2022-07-20
+19,Cámara Web 4K,Electronics,450000,12,TechSupply,4.8,0,2022-06-15
+20,Silla Gamer,Furniture,890000,8,OfficeMax,4.7,1,2023-04-20
