@@ -29,13 +29,13 @@ This fundamental block covers the essential skills for loading data into Pandas.
 **Goal:** Filter data and save it to a new file.
 - **Task:** Filter 'IT' department employees and export results.
 - **Key functions:** `.to_csv(index=False)`, `try-except` for error handling.
-- **Outcome:** Creation of [it_employees.csv](cci:7://file:///C:/Users/japar/OneDrive/Documentos/pandas_data_analysis_portfolio/01-dataframe-basics/data/reports/it_employees.csv:0:0-0:0) in the reports folder.
+- **Outcome:** Creation of [it_employees.csv](./data/reports/it_employees.csv) in the reports folder.
 ---
 ## 🏆 Challenge: Advanced Import
 **File:** [`1_6_challenge.py`](./exercises/1_6_challenge.py)
 **Objective:** Import a specific subset of employees (IDs 5-12) without using post-import filtering.
 - **Constraint:** Must use `skiprows` logic to skip specific lines (header + unwanted rows).
-- **Result:** A DataFrame with exactly 8 rows and 4 specific columns, using 'name' as the index, exported to [challenge_output.csv](cci:7://file:///C:/Users/japar/OneDrive/Documentos/pandas_data_analysis_portfolio/01-dataframe-basics/data/reports/challenge_output.csv:0:0-0:0).
+- **Result:** A DataFrame with exactly 8 rows and 4 specific columns, using 'name' as the index, exported to [challenge_output.csv](./data/reports/challenge_output.csv).
 ---
 ## 🚀 Mini-Project: Q3 Reporting
 **File:** [`mini_project_block1.py`](./exercises/mini_project_block1.py)
@@ -50,7 +50,7 @@ This fundamental block covers the essential skills for loading data into Pandas.
 ---
 ## 📂 Datasets Used
 All datasets are located in the `data/` directory:
-- [employees.csv](cci:7://file:///C:/Users/japar/OneDrive/Documentos/pandas_data_analysis_portfolio/01-dataframe-basics/data/employees.csv:0:0-0:0): Main employee records.
-- [departments.csv](cci:7://file:///C:/Users/japar/OneDrive/Documentos/pandas_data_analysis_portfolio/01-dataframe-basics/data/departments.csv:0:0-0:0): Department codes and budgets.
-- `sales_q3.csv`: Quarterly sales records.
+- [employees.csv](./data/datasets/employees.csv): Main employee records.
+- [departments.csv](./data/datasets/departments.csv): Department codes and budgets.
+- [sales_q3.csv](./data/datasets/sales_q3.csv): Quarterly sales records.
 ---
