@@ -1,0 +1,21 @@
+nombre,email_new,departamento,dept_code,salario_base,salary_bracket,annual_salary,performance_grade,seniority_level,years_in_company,high_performer,promotion_candidate,city,region
+Fernando Silva,fernando.silva@techcorp.global,Finance,FIN,54000,Alto,648000,A,Senior,8,True,True,Cali,Valle
+Diego Hernández,diego.hernandez@techcorp.global,Finance,FIN,55000,Premium,660000,A+,Director,9,True,True,Medellín,Antioquia
+Miguel Torres,miguel.torres@techcorp.global,Finance,FIN,58000,Premium,696000,A+,Director,10,True,True,Medellín,Antioquia
+Natalia Cruz,natalia.cruz@techcorp.global,Finance,FIN,56000,Premium,672000,A+,Director,9,True,True,Bogotá,Centro
+Carlos Ruiz,carlos.ruiz@techcorp.global,HR,RHH,38000,Estándar,456000,C,Senior,7,False,False,Medellín,Antioquia
+Laura Gómez,laura.gomez@techcorp.global,HR,RHH,36000,Estándar,432000,D,Junior,4,False,False,Cartagena,Caribe
+Patricia Morales,patricia.morales@techcorp.global,HR,RHH,37000,Estándar,444000,C,Junior,4,False,False,Medellín,Antioquia
+Gabriela Ortiz,gabriela.ortiz@techcorp.global,HR,RHH,35000,Estándar,420000,D,Entry-Level,4,False,False,Cartagena,Caribe
+María López,maria.lopez@techcorp.global,IT,TEC,52000,Alto,624000,A+,Senior,8,True,True,Bogotá,Centro
+Carmen Díaz,carmen.diaz@techcorp.global,IT,TEC,50000,Alto,600000,A,Senior,8,True,True,Bogotá,Centro
+Luis Mendoza,luis.mendoza@techcorp.global,IT,TEC,51000,Alto,612000,A+,Senior,9,True,True,Medellín,Antioquia
+Ana García,ana.garcia@techcorp.global,IT,TEC,45000,Competitivo,540000,A,Mid-Level,6,True,True,Bogotá,Centro
+Sofía Martínez,sofia.martinez@techcorp.global,IT,TEC,48000,Alto,576000,A,Mid-Level,6,False,True,Bogotá,Centro
+Roberto Castro,roberto.castro@techcorp.global,IT,TEC,46000,Competitivo,552000,B+,Mid-Level,6,False,False,Bogotá,Centro
+Ricardo Flores,ricardo.flores@techcorp.global,IT,TEC,49000,Alto,588000,A,Mid-Level,7,True,True,Medellín,Antioquia
+Pedro Ramírez,pedro.ramirez@techcorp.global,Sales,VTA,43000,Competitivo,516000,B+,Mid-Level,7,False,False,Cali,Valle
+Andrea Rojas,andrea.rojas@techcorp.global,Sales,VTA,42000,Competitivo,504000,B,Mid-Level,7,False,False,Bogotá,Centro
+Andrés Jiménez,andres.jimenez@techcorp.global,Sales,VTA,44000,Competitivo,528000,B+,Mid-Level,6,False,False,Cali,Valle
+Juan Pérez,juan.perez@techcorp.global,Sales,VTA,41000,Competitivo,492000,B,Junior,5,False,False,Cali,Valle
+Isabel Vargas,isabel.vargas@techcorp.global,Sales,VTA,39000,Estándar,468000,B,Junior,5,False,False,Barranquilla,Caribe
