@@ -1,0 +1,21 @@
+nombre,email_new,departamento,experience_category,salario,salary_range,performance_rating,total_compensation
+Ana García,ana.garcia@techcorp.io,IT,Mid-Level,45000,Medio,Excelente,621000
+Carlos Ruiz,carlos.ruiz@techcorp.io,HR,Mid-Level,38000,Bajo,Regular,478800
+María López,maria.lopez@techcorp.io,IT,Senior,52000,Alto,Sobresaliente,717600
+Juan Pérez,juan.perez@techcorp.io,Sales,Junior,41000,Medio,Bueno,541200
+Sofía Martínez,sofia.martinez@techcorp.io,IT,Junior,48000,Medio,Excelente,662400
+Diego Hernández,diego.hernandez@techcorp.io,Finance,Senior,55000,Alto,Sobresaliente,759000
+Laura Gómez,laura.gomez@techcorp.io,HR,Junior,36000,Bajo,Regular,453600
+Pedro Ramírez,pedro.ramirez@techcorp.io,Sales,Mid-Level,43000,Medio,Bueno,567600
+Carmen Díaz,carmen.diaz@techcorp.io,IT,Mid-Level,50000,Alto,Excelente,690000
+Miguel Torres,miguel.torres@techcorp.io,Finance,Senior,58000,Alto,Sobresaliente,800400
+Isabel Vargas,isabel.vargas@techcorp.io,Sales,Junior,39000,Bajo,Bueno,514800
+Roberto Castro,roberto.castro@techcorp.io,IT,Mid-Level,46000,Medio,Bueno,607200
+Patricia Morales,patricia.morales@techcorp.io,HR,Junior,37000,Bajo,Regular,466200
+Fernando Silva,fernando.silva@techcorp.io,Finance,Senior,54000,Alto,Excelente,745200
+Andrea Rojas,andrea.rojas@techcorp.io,Sales,Mid-Level,42000,Medio,Bueno,554400
+Luis Mendoza,luis.mendoza@techcorp.io,IT,Senior,51000,Alto,Sobresaliente,703800
+Gabriela Ortiz,gabriela.ortiz@techcorp.io,HR,N/A,35000,Bajo,Regular,441000
+Andrés Jiménez,andres.jimenez@techcorp.io,Sales,Junior,44000,Medio,Bueno,580800
+Natalia Cruz,natalia.cruz@techcorp.io,Finance,Senior,56000,Alto,Sobresaliente,772800
+Ricardo Flores,ricardo.flores@techcorp.io,IT,Mid-Level,49000,Medio,Excelente,676200

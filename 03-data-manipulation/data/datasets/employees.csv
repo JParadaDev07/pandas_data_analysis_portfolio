@@ -1,0 +1,21 @@
+id,name,department,salary,hire_date,performance_score,email,city,years_of_experience
+1,Ana García,IT,45000,2020-03-15,85,ana.garcia@company.com,Bogotá,5
+2,Carlos Ruiz,HR,38000,2019-07-22,72,carlos.ruiz@company.com,Medellín,7
+3,María López,IT,52000,2018-11-30,90,maria.lopez@company.com,Bogotá,8
+4,Juan Pérez,Sales,41000,2021-01-10,78,juan.perez@company.com,Cali,3
+5,Sofía Martínez,IT,48000,2020-09-05,88,sofia.martinez@company.com,Bogotá,4
+6,Diego Hernández,Finance,55000,2017-05-18,92,diego.hernandez@company.com,Medellín,10
+7,Laura Gómez,HR,36000,2022-02-14,68,laura.gomez@company.com,Cartagena,2
+8,Pedro Ramírez,Sales,43000,2019-12-01,81,pedro.ramirez@company.com,Cali,6
+9,Carmen Díaz,IT,50000,2018-08-25,87,carmen.diaz@company.com,Bogotá,7
+10,Miguel Torres,Finance,58000,2016-10-12,95,miguel.torres@company.com,Medellín,12
+11,Isabel Vargas,Sales,39000,2021-06-20,75,isabel.vargas@company.com,Barranquilla,3
+12,Roberto Castro,IT,46000,2020-04-08,83,roberto.castro@company.com,Bogotá,5
+13,Patricia Morales,HR,37000,2022-01-15,70,patricia.morales@company.com,Medellín,2
+14,Fernando Silva,Finance,54000,2018-03-22,89,fernando.silva@company.com,Cali,8
+15,Andrea Rojas,Sales,42000,2019-09-30,79,andrea.rojas@company.com,Bogotá,6
+16,Luis Mendoza,IT,51000,2017-12-05,91,luis.mendoza@company.com,Medellín,9
+17,Gabriela Ortiz,HR,35000,2022-08-11,66,gabriela.ortiz@company.com,Cartagena,1
+18,Andrés Jiménez,Sales,44000,2020-11-18,82,andres.jimenez@company.com,Cali,4
+19,Natalia Cruz,Finance,56000,2017-07-09,93,natalia.cruz@company.com,Bogotá,10
+20,Ricardo Flores,IT,49000,2019-05-27,86,ricardo.flores@company.com,Medellín,6
