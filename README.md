@@ -59,7 +59,7 @@ Me llevo de aquí no solo el código, sino la **resiliencia**. Aprendí que no i
 
 ## Con esto en mente, empecemos!
 
-**Primer bloque:** [Creación de DataFrames, selección de columnas y filas](./01-dataframe-basics/README.md).
+**Primer bloque:** [BEGINNING](./01-dataframe-basics/).
 
 
 *– JParadaDev, 2026*
