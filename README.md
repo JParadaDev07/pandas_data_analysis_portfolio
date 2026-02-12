@@ -56,4 +56,10 @@ Este portafolio cierra el capítulo de manipulación de datos en Python, pero ab
 Me llevo de aquí no solo el código, sino la **resiliencia**. Aprendí que no importa si me toma el doble de tiempo que a otros; lo importante es que, al final, el código corre, los datos hablan y yo entiendo cada coma del script.    
 
 
+
+## Con esto en mente, empecemos!
+
+## Primer bloque:
+[01-dataframe-basics](./01-dataframe-basics/README.md)
+
 *– JParadaDev, 2026*
